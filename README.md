@@ -2,11 +2,7 @@
 #### Flutter Developer
 ![Web Developer, Flutter Developer](https://media.licdn.com/dms/image/v2/D4E16AQHYKrlDVGf48A/profile-displaybackgroundimage-shrink_350_1400/B4EZYZ1sLgGYAY-/0/1744190228752?e=1749686400&v=beta&t=rd0f3Rn3JeNSaCj5_HmxXZbz13CfUcocgCh7CQ-36g8)
 
-I'm a passionate Web and Mobile App Developer with hands-on experience in JavaScript and Dart. I specialize in building responsive web interfaces and crafting cross-platform mobile applications using Flutter.
-
-My focus is on creating user-friendly designs, integrating APIs, and implementing efficient state management solutions to deliver seamless user experiences. Currently, I'm pursuing a Diploma in Computer Science and am always eager to learn new technologies and tackle real-world problems through code.
-
-I'm actively seeking opportunities to grow as a developer and contribute to impactful projects. Let’s build something amazing together! 🚀
+Passionate and detail-oriented Flutter Developer with hands-on internship experience at FourBtech, where I contribute to cross-platform mobile app development using Flutter and Dart. Skilled in building responsive UI, integrating APIs, and deploying functional applications. Backed by a Diploma in Computer Engineering from SSR Institute of Technology and Management (2021–2024). Eager to grow in a dynamic tech environment and contribute to innovative mobile solutions. 🚀
 
 Skills:  HTML5 / CSS3 / Bootstrap/JavaScript/Dart/Flutter
 
