@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm A F M Sabbir Khan
-#### Web Developer, Flutter Developer
+#### Flutter Developer
 ![Web Developer, Flutter Developer](https://media.licdn.com/dms/image/v2/D4E16AQHYKrlDVGf48A/profile-displaybackgroundimage-shrink_350_1400/B4EZYZ1sLgGYAY-/0/1744190228752?e=1749686400&v=beta&t=rd0f3Rn3JeNSaCj5_HmxXZbz13CfUcocgCh7CQ-36g8)
 
 I'm a passionate Web and Mobile App Developer with hands-on experience in JavaScript and Dart. I specialize in building responsive web interfaces and crafting cross-platform mobile applications using Flutter.
