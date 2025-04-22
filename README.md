@@ -1,24 +1,25 @@
-### Hi there 👋, I'm A F M Sabbir Khan
-#### Flutter Developer
-![Web Developer, Flutter Developer](https://media.licdn.com/dms/image/v2/D4E16AQHYKrlDVGf48A/profile-displaybackgroundimage-shrink_350_1400/B4EZYZ1sLgGYAY-/0/1744190228752?e=1749686400&v=beta&t=rd0f3Rn3JeNSaCj5_HmxXZbz13CfUcocgCh7CQ-36g8)
+<h1 align="center">Hi 👋, I'm A F M Sabbir Khan</h1>
+<h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
 
-Passionate and detail-oriented Flutter Developer with hands-on internship experience at FourBtech, where I contribute to cross-platform mobile app development using Flutter and Dart. Skilled in building responsive UI, integrating APIs, and deploying functional applications. Backed by a Diploma in Computer Engineering from SSR Institute of Technology and Management (2021–2024). Eager to grow in a dynamic tech environment and contribute to innovative mobile solutions. 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirafmkhan&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirafmkhan" /> </p>
 
-Skills:  HTML5 / CSS3 / Bootstrap/JavaScript/Dart/Flutter
+- 🔭 I’m currently working on [T Store E-Commerce](https://github.com/sabbirafmkhan/t_store.git)
 
-- 🌱 I’m currently learning Flutter  
-- 📫 How to reach me: sabbirafmkhan@gmail.com 
+- 🌱 I’m currently learning **Flutter**
 
+- 📫 How to reach me **sabbirafmkhan@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabbirafmkhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afmsabbirkhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/afmsabbirkhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/afmsabbirkhan/)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/afmsabbirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afmsabbirkhan" height="30" width="40" /></a>
+<a href="https://fb.com/afmsabbirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afmsabbirkhan" height="30" width="40" /></a>
+<a href="https://instagram.com/khanafmsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khanafmsabbir" height="30" width="40" /></a>
+<a href="https://discord.gg/afmsabbirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="afmsabbirkhan" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sabbirafmkhan)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirafmkhan)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirafmkhan&show_icons=true&locale=en&layout=compact" alt="sabbirafmkhan" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbirafmkhan&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sabbirafmkhan/contributions?format=svg&private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sabbirafmkhan)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirafmkhan&" alt="sabbirafmkhan" /></p>
