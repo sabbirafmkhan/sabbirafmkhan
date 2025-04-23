@@ -1,25 +1,21 @@
-<h1 align="center">Hi 👋, I'm A F M Sabbir Khan</h1>
-<h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
+# 💫 About Me:
+🔭 I’m currently working on A full-featured E-Commerce app using Flutter.<br>👯 I’m looking to collaborate on Cross-platform mobile Flutter.<br>🤝 I’m looking for help with improving UI/UX and performance.<br>🌱 I’m currently learning advanced Dart and Flutter.<br>💬 Ask me about Flutter, Firebase, Stripe integration, API development, or how to start with mobile app deployment.<br>⚡ Fun fact While I’m an introvert by nature, I love jumping into tough technical challenges and solving them creatively.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirafmkhan&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirafmkhan" /> </p>
 
-- 🔭 I’m currently working on [T Store E-Commerce](https://github.com/sabbirafmkhan/t_store.git)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/afmsabbirkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khanafmsabbir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afmsabbirkhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabbirafmkhan@gmail.com) 
 
-- 🌱 I’m currently learning **Flutter**
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sabbirafmkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sabbirafmkhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirafmkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **sabbirafmkhan@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sabbirafmkhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/afmsabbirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afmsabbirkhan" height="30" width="40" /></a>
-<a href="https://fb.com/afmsabbirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afmsabbirkhan" height="30" width="40" /></a>
-<a href="https://instagram.com/khanafmsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khanafmsabbir" height="30" width="40" /></a>
-<a href="https://discord.gg/afmsabbirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="afmsabbirkhan" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=sabbirafmkhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirafmkhan&show_icons=true&locale=en&layout=compact" alt="sabbirafmkhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirafmkhan&" alt="sabbirafmkhan" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
