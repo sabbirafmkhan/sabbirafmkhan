@@ -1,9 +1,9 @@
-# 💫 About Me:
+# 💫 About Me: A F M Sabbir Khan
 🔭 I’m currently working on A full-featured E-Commerce app using Flutter.<br>👯 I’m looking to collaborate on Cross-platform mobile Flutter.<br>🤝 I’m looking for help with improving UI/UX and performance.<br>🌱 I’m currently learning advanced Dart and Flutter.<br>💬 Ask me about Flutter, Firebase, Stripe integration, API development, or how to start with mobile app deployment.<br>⚡ Fun fact While I’m an introvert by nature, I love jumping into tough technical challenges and solving them creatively.
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/afmsabbirkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khanafmsabbir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afmsabbirkhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabbirafmkhan@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/afmsabbirkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afmsabbirkhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afmsabbirkhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabbirafmkhan@gmail.com) 
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
